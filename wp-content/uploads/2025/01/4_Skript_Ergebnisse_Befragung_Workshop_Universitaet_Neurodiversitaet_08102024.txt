@@ -1,0 +1,435 @@
+# Befragungen zu Studienbedingungen neurodivergenter Studierender an der TU Dresden
+
+Einblick in die Ergebnisse einer studentischen Befragung – Skript zum Vortrag vom 08.10.2024 im Rahmen des Workshops „Neurodiversität und Universität“
+
+_Präsentation: Christin Engel_
+
+_Veröffentlicht am: 02.12.2024_
+
+
+Das Dokument ist urheberrechtlich geschützt und lizensiert unter der [Creative Commons Attribution International 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
+# Kurzvorstellung Referentin: Christin Engel (sie/she)
+
+**Fachlicher Hintergrund**
+
+- Studium der **Medieninformatik** an der TU Dresden
+- Forschung zu **digitaler Barrierefreiheit,** **assistiven Technologien** und **Promotion** zu **taktilen Grafiken** an der MCI **seit 2016**
+- Forschungsinteressen: **Barrierefreiheit** und **diversitätssensibles Design**, User-Centred Design, Usability, partizipative Forschung
+- Onlinebefragung [Diversity Monitoring](https://tu-dresden.de/ing/informatik/ai/mci/forschung/forschungsgebiete/diversity-monitoring) 2018 TUD**<sup>1</sup>** zu an der Diversitätsdimensionen und Diskriminierungserfahrungen
+- **Projekte** und **Workshops** zu Gender- und Gleichstellungsaspekten, Antidiskriminierung
+- [Gleichstellungsbeauftragte](https://tu-dresden.de/ing/informatik/die-fakultaet/chancengleichheit/gleichstellungsbeauftragte) Fakultät Informatik bis 2022
+
+**<sup>1</sup>** Durchschnittliche Studiendauer über alle Abschlüsse 2003 – 2023 in Deutschland: 8,2 Semester Quelle: <https://de.statista.com/statistik/daten/studie/189155/umfrage/durchschnittliche-studiendauer-in-deutschland/> [↑](#footnote-ref-1)
+
+# Interviews mit neurodivergenten Studierenden an der TU Dresden
+
+## Überblick zu den Befragungen
+
+### Hard Facts
+
+- TU interner Projekte [neurodivergent@TUD](https://tu-dresden.de/ing/informatik/ai/mci/forschung/forschungsgebiete/neurodivergent-tu-dresden) (Inklusionsmittel 2023)
+    und [neuroqueer@TUD](https://tu-dresden.de/ing/informatik/ai/mci/forschung/forschungsgebiete/neuroqueer-tud) (Anreizfond 2024)
+- Projektkoordination Lars + studentische Mitarbeitende zur Realisierung, Projektbegleitung durch [AutARK](https://autark.inf.tu-dresden.de/)
+
+### Ziele der Befragung
+
+- **Studiensituation** und Bedingungen neurodivergenter Studierender untersuchen
+- **Sensibilisierung** beteiligter Akteur:innen der TUD
+- **Unterstützung** und **Vernetzung** fördern 🡪 **Stammtisch** „Neurodivergente Runde“
+- **Handlungsempfehlungen** entwickeln
+
+_Bildbeschreibung:_
+
+_„Flyer mit Einladung zum Stammtisch: ‚Offener Stammtisch die neurodivergente Runde. Selbsthilfe und Barrierefreiheit für neurodivergente Studierende. 20.09.2023 ab 20 Uhr im Club Traumtänzer.‘“_
+
+## Methodik der Befragungen
+
+- Einladung zur Teilnahme via **Selbstselektion** per E-Mail, Newsletter, etc.
+- Ort: Fakultät Informatik
+- **persönliche** und vertrauliche (Datenschutzerklärung)
+- **Peer**\-Befragungen
+- **Incentives** in Höhe von 10€ pro Person
+- keine Mehrfachteilnahme
+- Dauer pro Interview: ca. **eine Stunde**
+- auf Wunsch Informationen zu Anlaufstellen an der TUD, Tipps und **Strategien** zur **Selbsthilfe**
+
+### Aufbau der Befragung
+
+- qualitatives, semistrukturiertes Interview
+- zwei Befragungsrunden: 2023 (10 Personen) und 2024 (6 Personen)
+- viele offene Fragen, Raum für eigene Themen
+- Zusatz: Fragen zu Intersektionalität und Diskriminierungserfahrungen nur in zweiter Befragungsrunde
+- Informationen zu Teilnehmenden
+
+1. **Daten zur Person + Studium**
+    - Alter, Geschlecht
+    - Studium (aktuelles Semester, Studiengang)
+    - Arbeitserfahrungen
+2. **Diagnosen und Unterstützung**
+    - Diagnosen AD(H)S/Autismus Stärke konkreter Symptome
+    - weitere Störungen/Beeinträchtigungen
+3. **Herausforderungen im Studium**
+    - Motivatoren/Demotivatoren
+    - konkrete Erfahrungen/Herausforderungen zu ausgewähltem Bereich des Studiums
+4. **Intersektionale Faktoren**
+    - Diskriminierungs-erfahrungen und Intersektionalität
+    - nur Befragungen neuroqueer@TUD (6 Personen)
+
+# Ergebnisse der Befragungen – Informationen zu den Teilnehmenden
+
+## 2.1. Demografie
+
+### Geschlecht
+
+- - **Mehrheit** definiert sich als **weiblich** (9/16), 2 Personen als männlich
+    - 5 Personen agender bzw. non-binary oder questioning (Mehrfachauswahl)
+    - **Abweichung** des **sozialen Geschlechts** der Kindheit vom **psychischen** **Geschlecht** (1xweiblich, 4xagender bzw. non-binary) bei 5 Personen
+
+### Alter
+
+- - zw. 20 und 34 Jahren (Ø 23,6 Jahre)
+
+_Bildbeschreibung:_ _Säulendiagramm mit dem Titel "Alter der befragten Studierenden". Die x-Achse zeigt das Alter in Jahren, die y-Achse die Anzahl der Befragten. Es sind 8 Säulen abgebildet. Die höchste Säule ist bei 21 Jahren mit 4 Befragten, 3 Befragte waren 23 Jahre, jeweils 2 Personen 20, 22 bzw. 28 Jahre und eine Person jeweils 25, 26 bzw. 34 Jahre._
+
+- **fast alle Teilnehmenden < 30 Jahre alt**
+- **weiblich identifizierte Personen überrepräsentiert**
+- **hoher Anteil an Personen mit nicht-heteronormativer Geschlechtsidentität**
+
+## 2.2. Studium
+
+### Studiensemester
+
+- fast alle Befragten mindestens ein Jahr
+    Erfahrungen im Studium
+- 6 Personen > 8. Studiensemester<sup>[\[1\]](#footnote-1)</sup>
+- 3 Personen mit abgeschlossenem Studium
+- 1 x Studienabbruch zuvor
+
+_Bildbeschreibung:_
+
+_„Säulendiagramm mit dem Titel ‘Aktuelles Studiensemester’ und 10 Säulen, die die Anzahl an Studierenden (N=16, y-Achse, Wertebereich 0 bis 4) pro Anzahl der bereits absolvierten Studiensemester (x-Achse, Wertebereich von 1 bis 14) zeigt. Im Diagramm sind zwei Bereiche hervorgehoben: vom 2. bis 14. Studiensemester beschriftet mit ‘15 Personen’ und ab dem 8. Studiensemester bis 14. beschriftet mit ‘6 Personen’. Folgende Werte sind dargestellt:_
+
+- _0 Personen: 2., 5., 8. Und 13. Studiensemester_
+- _1 Person: 1., 3., 9., 10., 11. und 14. Studiensemester_
+- _2 Personen: 4. und 12. Studiensemester_
+- _3 Personen: 6. und 7. Studiensemester“_
+
+### Fachrichtungen
+
+- 11 x Ingenieurs- und Naturwissenschaften, davon 8 (Medien-)Informatik
+- weitere Fachrichtungen, u. a. Psychologie, Lehramt
+
+🡪 **Studierende naturwissenschaftlicher Disziplinen, insb. Informatik überrepräsentiert**
+
+## 2.3. Diagnosen und Symptome
+
+- Großteil mindestens Verdachtsdiagnose Autismus/ADHS
+- keine professionelle Diagnose: 5 Personen
+- zwei Personen haben beide Diagnosen AD(H)S und Autismus
+- häufiger ADHS-Diagnose als Autismus-Diagnose
+- ADHS bei Teilnehmenden häufiger frühdiagnostiziert
+
+_Bildbeschreibung:_
+
+_„Gestapeltes Säulendiagramm mit dem Titel ‚Autismus/AD(H)S Diagnosen‘ mit 2 Säulen. links ‚Autismus‘ und rechts ‚ADHS‘. Die Säulen zeigen von unten nach oben die Anzahl der Befragten, die jeweils die Antwort ausgewählt haben, insgesamt 16 Nennungen pro Säule. Anteile von unten nach oben:_
+
+- _Ja, seit der Kindheit oder Jugend (Autismus: 2; ADHS: 5)._
+- _Ja, seit dem Erwachsenenalter (Autismus: 1; ADHS: 2)_
+- _Starker Verdacht, aktuelle Bestrebungen (Autismus: 4, ADHS: 1)_
+- _Verdacht, Diagnose durch externe Umstände verhindert (Autismus: 4; ADHS: 2)._
+- _Verdacht, Diagnose nicht nötig (Diagnose wird aus verschiedenen Gründen nicht angestrebt, z. B. Nachteilsausgleich, andere Diagnosen) (Autismus: 2; ADHS: 3).“_
+
+### ADHS
+
+Rating von 14 ADHS und 11 Autismus Symptomen mit 5-Punkt-Likert Scale (N=16) mit _1 = kaum ausgeprägt und 5 = sehr stark ausgeprägt, nicht kompensierbar_.
+
+_Bildbeschreibung:_
+
+_„Gestapeltes Balkendiagramm mit 14 Symptombeschreibungen auf der y-Achse und Anzahl der Nennungen (stark bis sehr stark ausgeprägt (orange) und wenig/kaum ausgeprägt (dunkelblau)) auf der x-Achse von 0 bis 16. Die Werte sind von oben nach unten absteigend nach der Datenreihe ‚stark bis sehr stark ausgeprägt‘ sortiert. Folgende Symptome sind dargestellt (von unten nach oben):_
+
+1. _wenig Übersicht über Aufgaben und Tagesplan (stark: 4, wenig: 9)_
+2. _Probleme Aufgaben abzuschließen (stark: 5, wenig: 7)_
+3. _schnelles Aufgeben durch geringe Frustrationstoleranz (stark: 5, wenig: 8)_
+4. _generelle Hyperaktivität (stark: 6, wenig: 9)_
+5. _schlechte Risikoabschätzung durch Impulsivität (stark: 6, wenig: 8)._
+6. _Ressourcenmanagement und langfristiges Planen (stark: 7, wenig: 4)_
+7. _Probleme im Turn-Taking bei Gesprächen (stark: 7, wenig: 5)_
+8. _Antriebslosigkeit, fehlende Motivation (stark: 7, wenig: 4)_
+9. _Probleme in Gesprächen beim Faden zu bleiben (stark: 8, wenig: 5)_
+10. _häufiges Verlegen von Gegenständen (stark: 8, wenig: 5)_
+11. _bei Aufgaben mit hohen Konzentrationsanforderngen bleiben (stark: 9, wenig: 5)_
+12. _hohe Ablenkbarkeit durch Reize und Gedanken (stark: 9, wenig: 1)_
+13. _Dranbleiben bei nicht stimulierenden Aufgaben (stark: 11, wenig: 1)_
+14. _häufige Schusselfehler (stark: 11, wenig: 1).“_
+
+- Rating von 14 ADHS und 11 Autismus Symptomen mit 5-Punkt-Likert Scale (N=16) mit _1 = kaum ausgeprägt und 5 = sehr stark ausgeprägt, nicht kompensierbar_
+
+### Autismus
+
+Rating von **11 Autismus Symptomen** mit 5-Punkt-Likert Scale (N=16) mit _1 = kaum/gar nicht ausgeprägt und 5 = sehr stark ausgeprägt, nicht kompensierbar._
+
+_Bildbeschreibung_:
+
+_Balkendiagramm mit 11 horizontalen gestapelten Balken mit den Teilwerten ‘stark bis sehr stark ausgeprägt (4+5)’ und ‘wenig/kaum ausgeprägt’. Die x-Achse zeigt die Anzahl der Teilnehmenden von 0 bis 16. Die Balken sind von oben nach unten absteigend nach ‘stark bis sehr stark ausgeprägt’ geordnet. Folgende Werte sind abgebildet (von unten nach oben):_
+
+1. _andersartige Kommunikation (verbal, nonverbal, Körpersprache) (sehr stark: 4, wenig: 5)._
+2. _Probleme sich in andere hinein zu versetzen (sehr stark: 4; wenig: 9)_
+3. _Ticks und Rituale (sehr stark: 5; wenig: 4)._
+4. _stereotype Bewegungsmuster (sehr stark: 5; wenig: 9)._
+5. _schlechte soziale Intuition (sehr stark: 6; wenig: 2)._
+6. _ungewöhnlich starke Routinen (sehr stark: 7; wenig: 5)._
+7. _zwanghaftes Befolgen von Regeln (sehr stark: 8; wenig: 4)._
+8. _Probleme Beziehungen zu führen (sehr stark: 9; wenig: 5)._
+9. _ungewöhnlich stark ausgeprägte Spezialinteressen (sehr stark: 12; wenig: 1)._
+10. _außergewöhnliche Sinneswahrnehmung (sehr stark: 12; wenig: 3)._
+11. _Aversion gegen Veränderungen und unerwartetes (sehr stark: 14; wenig: 1).’_
+
+### Zusammenfassung Symptome von ADHS & Autismus
+
+**🡪ADHS und Autismus** Symptome mit starker bis sehr starker Ausprägung zusammengefasst
+
+_Bildbeschreibung:_
+
+_Balkendiagramm, das die 11 Autismus und 13 ADHS Symptome der aggregiert von ADHS und Autismus in einem horizontalen Balkendiagramm darstellt, von oben nach unten absteigend nach "stark bis sehr stark ausgeprägt" sortiert:_
+
+1. _wenig Übersicht über Aufgaben und Tagesplan (sehr stark: 4; wenig: 9)_
+2. _andersartige Kommunikation (verbal, nonverbal, Körpersprache) (sehr stark:4; wenig: 5)_
+3. _Probleme sich in andere hinein zu versetzen (sehr stark: 4; wenig: 9)_
+4. _Probleme Aufgaben abzuschließen (sehr stark: 5; wenig: 7)_
+5. _schnelles Aufgeben durch geringe Frustrationstoleranz (sehr stark: 5; wenig: 8)_
+6. _Ticks und Rituale (sehr stark: 5; wenig: 4)_
+7. _stereotype Bewegungsmuster (sehr stark: 5; wenig: 9)_
+8. _generelle Hyperaktivität (sehr stark: 6; wenig: 9)_
+9. _schlechte Risikoabschätzung durch Impulsivität (sehr stark: 6; wenig: 8)_
+10. _schlechte soziale Intuition (sehr stark: 6; wenig: 2)_
+11. _Ressourcenmanagement und langfristiges Planen (sehr stark: 7; wenig: 4)_
+12. _Probleme im Turn-Taking bei Gesprächen (sehr stark: 7; wenig: 5)_
+13. _Antriebslosigkeit, fehlende Motivation (sehr stark: 7; wenig: 4)_
+14. _ungewöhnlich starke Routinen (sehr stark: 7; wenig: 5)_
+15. _Probleme in Gesprächen beim Faden zu bleiben (sehr stark: 8; wenig: 5)_
+16. _häufiges Verlegen von Gegenständen (sehr stark: 8; wenig: 5)_
+17. _zwanghaftes Befolgen von Regeln (sehr stark: 8; wenig: 4)_
+18. _bei Aufgaben mit hohen Konzentrationsanforderungen bleiben (sehr stark: 9; wenig: 5)_
+19. _hohe Ablenkbarkeit durch Reize und Gedanken (sehr stark: 9; wenig: 1)_
+20. _Probleme Beziehungen zu führen (sehr stark: 9; wenig: 5)_
+21. _Dranbleiben bei nicht stimulierenden Aufgaben (sehr stark: 11; wenig: 1)_
+22. _häufige Schusselfehler (sehr stark: 11; wenig: 1)_
+23. _ungewöhnlich stark ausgeprägte Spezialinteressen (sehr stark: 12; wenig: 1)_
+24. außergewöhnliche Sinneswahrnehmung (sehr stark: 12; wenig: 3)
+25. Aversion gegen Veränderungen und unerwartetes (sehr stark: 14; wenig: 1)
+
+### Symptome mit starker bis sehr starker Ausprägung Autismus & ADHS
+
+**🡪 ADHS und Autismus** Symptome mit starker bis sehr starker Ausprägung bei **mind. der Hälfte** der Teilnehmenden
+
+_Bildbeschreibung:_
+
+_Balkendiagramm der vorherigen Folie, mit dem Unterschied, dass die Balken mit hoher oder sehr hoher Ausprägung bei mindestens 50% der Teilnehmenden, isoliert in einem Diagramm dargestellt sind. Alle weiteren Balken wurden weggelassen, genauso wie die Angabe für geringe Ausprägung. Folgende Balken sind dargestellt (aufsteigend):_
+
+- _Probleme in Gesprächen beim Faden zu bleiben (8 Personen)_
+- _häufiges Verlegen von Gegenständen (8 Personen)_
+- _zwanghaftes Befolgen von Regeln (8 Personen)_
+- _bei Aufgaben mit hohen Konzentrationsanforderungen bleiben (9 Personen)_
+- _hohe Ablenkbarkeit durch Reize und Gedanken (9 Personen)_
+- _Probleme Beziehungen zu führen (9 Personen)_
+- _Dranbleiben bei nicht stimulierenden Aufgaben (11 Personen)_
+- _häufige Schusselfehler (11 Personen)_
+- _ungewöhnlich stark ausgeprägte Spezialinteressen (12 Personen)_
+- _außergewöhnliche Sinneswahrnehmung (12 Personen)_
+- _Aversion gegen Veränderungen und unerwartetes (14 Personen)_
+
+### Anzahl Symptome mit starker bis sehr starker Ausprägung pro Person
+
+🡪 Vorliegen starker bis sehr starker (Likert 4 +5) ADHS- bzw. Autismus-Symptome zusammengefasst pro Person P1 bis P16 🡪 Ø 11,8/25 starke Symptome pro Person (min: 8; max: 20).
+
+_Bildbeschreibung:_
+
+_Horizontales gestapeltes Balkendiagramm mit der Anzahl der Symptome - aufgeteilt nach ADHS Symptomen (orange) und Autismus Symptomen (blau) - auf der x-Achse und P1 bis P16 auf der y-Achse._
+
+- P1 (ADHS: 2; Autismus: 6)
+- P2 (ADHS: 5; Autismus: 3)
+- P3 (ADHS: 5; Autismus: 4)
+- P4 (ADHS: 5; Autismus: 4)
+- P5 (ADHS: 6; Autismus: 3)
+- P6 (ADHS: 7; Autismus: 2)
+- P7 (ADHS: 5; Autismus: 5)
+- P8 (ADHS: 8; Autismus: 2)
+- P9 (ADHS: 6; Autismus: 5)
+- P10 (ADHS: 6; Autismus: 6)
+- P11 (ADHS: 7; Autismus: 5)
+- P12 (ADHS: 7; Autismus: 6)
+- P13 (ADHS: 5; Autismus: 11)
+- P14 (ADHS: 10; Autismus: 6)
+- P15 (ADHS: 9; Autismus: 8)
+- P16 (ADHS: 10; Autismus: 10)
+
+# Ergebnisse der Befragungen
+
+Studium - Motivatoren und Demotivatoren
+
+## 3.1. Motivatoren und Demotivatoren
+
+**INSIGHTS – Auswahl Antworten der Teilnehmenden zu…**
+
+**Motivatoren:** Was motiviert dich in deinem Studium, was hilft dir, was gibt dir Kraft?
+
+**Demotivatoren:** Gibt es etwas, das dich überfordert? Wird dir Druckgemacht oder hast du vor etwas Angst?
+
+Zitat 1 (grün): _„Ich liebe für mein Studienfach zu lernen, ich brenne für den Stoff.“_
+
+Zitat 2 (gelb): _„Angst, weil man alles selbst machen muss, schaffe ich den Abschluss?“_
+
+Zitat 3 (grün): _„Das Umfeld an der Universität ist viel angenehmer, als meine Schule.“_
+
+Zitat 4 (gelb): _„…viel oberflächliches Wissen und auswendig lernen“_
+
+_Bildbeschreibung:_
+
+_„Gruppiertes horizontales Balkendiagramm, das aufzeigt, wie viele Befragte die 6 Bereiche auf der y-Achse als demotivierend (dunkelblau) bzw. motivierend (hellblau) empfanden. Die größte Motivation wird bei der Lehre empfunden, am wenigste Motivation erzeugen Studienorganisation und -service sowie Prüfungen. Äquivalent haben die beiden letztgenannten die höchsten Werte für Demotivation. Folgende Werte sind dargestellt (von oben nach unten):_
+
+- _Lehre (motivierend: 13 Personen, demotivierend: 5 Personen)_
+- _Soziales (motivierend: 9 Personen, demotivierend: 3 Personen)_
+- _Sonstiges (motivierend: 6 Personen, demotivierend: 4 Personen)_
+- _Selbststudium und Selbsthilfe (motivierend: 3 Personen, demotivierend: 5 Personen)_
+- _Studienorganisation und -service (motivierend: 2 Personen, demotivierend: 12 Personen)_
+- _Prüfungen (motivierend: 2 Personen, demotivierend: 8 Personen)“_
+
+## 3.2 Einflussfaktoren Studium
+
+### Ranking Studienbereiche
+
+- Ranking der Studienbereiche anhand ihrer Relevanz für das Studium (absteigend)
+
+_Bildbeschreibung:_
+
+_„Diagramm mit dem Ranking der 6 Studienbereiche von 1. sehr wichtig bis 6. am wenigsten wichtig:_
+
+1. _Studienorganisation und –service_
+2. _Soziales_
+3. _Lehre_
+4. _Selbsthilfe und Selbststudium_
+5. _Prüfungen_
+6. _Studienbeginn_“
+
+### Studienorganisation | Herausforderungen und Barrieren
+
+**Informationen zum Studium**
+
+- **Auffinden von Informationen:** stark verteilt, unübersichtlich, **schwer auffindbar**
+- Usability und Accessibility Probleme (z. B. Opal, Selma)
+- **Inkonsistente** oder **veraltete** Informationen auf mehreren Plattformen, z. B. PO
+- **Stundenplan** zusammenstellen aufwändig, viele Einarbeitungszeit
+- **fehlende Ansprechpersonen** für Fragen
+
+**Verwaltung**
+
+- **fehlende Infos** zu Verwaltungsabläufen (z. B. Prüfungseinschreibungen)
+- **Regularien nicht verständlich** dargestellt (z. B. Prüfungsamt)
+- **Zuständigkeiten**, **Angebote** und **Kontakt**, Beratungszeiten, Kommunikationskanal oft nicht auffindbar/genutzt
+- **fehlende Kompetenz** zu verschiedenen **Behinderung**sformen und **Verwaltungsakten**
+
+**Strukturelle Barrieren**
+
+- Unklarheiten über **Kommunikationswege**
+- Unzureichend Anerkennung von Semestern bei Wechsel
+- fehlende **Barrierefreiheit** bei Exkursionen
+- Assistenzen müssen selbstständig rekrutiert und qualifiziert werden
+- **unpünktliche Notenvergabe** von Klausuren und Abschlussarbeiten
+
+### Studienorganisation | Positive Beispiele
+
+Positive Beispiele: Best Practice Einzelberichte von positiven Erfahrungen
+
+- **Peer-Beratung** zu Nachteilsausgleichen, etc.
+- schnelle Antwort vom Prüfungsamt
+- **Unterstützung bei Formulierung** von Nachteilsausgleichen, Behördengängen, Coaching
+- **Gute Unterstützung vor dem Studium** durch Behindertenbeauftragte/Stura
+- **Vielfältige Anlaufstellen** vorhanden
+- Hilfreiche Unterstützung **engagierter Einzelpersonen** zu speziellen Anfragen
+- Hilfe von Freund:innen
+- **Hilfe von persönlichem Engagement und Wissen der Beteiligten abhängig**
+- **Anlaufstellen seien häufig bekannt, aber nicht ausreichend**
+
+### Handlungspotential und –bedarf im Bereich Studienorganisation
+
+- **Studienrelevante Informationen** übersichtlich, konsistent und gebündelt bereitstellen
+- **Zentrale Anlaufstelle** für wichtige Informationen bieten
+- Klarer, **verlässlicher Stundenplan** mit ALLEN notwendigen Infos (Raum, Zeit, Lehrperson)
+- **Kursorganisation** auf Opal vereinheitlichen
+- **Konsistente Benennung** von Kursen und Modulen im Portal und in Praxis
+- **EINE Plattform** für Prüfungen (Tool) mit **einem Prüfungsanmeldezeitraum**
+- **Buddy bzw. Mentoring Programm** für Autist:innen bzw. neurodivergente Studierende
+- **mind. gesetzliche Anforderungen** der Barrierefreiheit bzw. **Mutterschutz** erfüllen
+- **Mehr** hybride- bzw. **Online-Lehre** anbieten
+- **höhere Flexibilität** im Studium, mehr **Teilzeit,** vorziehen von **Prüfungen**
+- **Erinnerungsmail** für **Einschreibungen** und **Prüfungsphasen**
+
+### Anforderungen hilfreicher Maßnahmen
+
+- **Klare Struktur** und **Zugang zu studienrelevanten Informationen** unterstützen durch:
+- **zentrale Informationen** mit verlässlichen Stundenplänen/**Lehrveranstaltungen**
+- **Konsistente** Kursstrukturen und **Barrierefreiheit**
+- Persönliche Unterstützung durch andere Peers, Buddies
+- Persönliche Ansprechpersonen von Verwaltungsmenschen, insbesondere Prüfungsamt
+- **Verständliche Darstellung** bzw. Erläuterung von **Regularien**, Prozesse, gesetzliche Anforderungen
+- Studierbarkeit und Studienablauf durch z. B. flexiblere Prüfungstermine, angemessene Zeiten zur Notenvergabe
+- Unterstützung **individueller Anforderungen** und **Kompensation im Studium**
+- **Erinnerungen** für Deadlines, Termine, Einschreibungen
+- flexible Studiengestaltung mit **Teilzeit, Flexibilisierung** von **Prüfungsterminen**
+- **Nachteilsausgleiche** gewähren, Beteiligte **schulen**
+
+### Überblick | Lehre und Soziales (N=8)
+
+**Main Outcomes Lehre**
+
+- **Praktische interaktive Formate**, wie Tutorien, gegenüber passiver Teilnahme bevorzugt (🡪 Vorlesungen unbeliebt)
+- **Wissen anwenden** und in Veranstaltungen einbringen
+- **Selbststudium** (z. B. Vor- und Nachbereitung) mit sinnvollen Materilaien (mit Lösungen) unterstützen
+- **vielfältige Lernmodi** ermöglichen (fördert noch viel mehr Studierende!)
+
+**Main Outcomes Soziales**
+
+- **ausreichendes soziales Netz** meist vorhanden und wichtig 🡪 Freund:innen, Komiliton:innen, Fachschaft, Hilfs- und Beratungsangebote der Uni
+- **Sensibilisierung**, insb. von Lehrkräften und Verwaltung **hinsichtlich Reizwahrnehmung** und Bedeutung **Nachteilsausgleich** neurodivergenter Menschen🡪 Integration in bestehende technische Systeme
+- **Veröffentlichung weiterer Ergebnisse (u. a. zu den Bereichen Selbsthilfe und Selbststudium, Prüfungen und Stuienbeginn) bzw. Details zu gegebener Zeit auf der Projektwebseite innerhalb eines umfangreichen Ergebnisberichts**
+
+### Zusatz: Intersektionalität
+
+- geringe Datenbasis 🡪 6 Personen in der zweiten Befragungsrunde
+- Erfassung zahlreicher **Diversitätsdimensionen** und subjektiver Einfluss auf den **Studienerfolg** (Skala von sehr negativ bis sehr positiv)
+
+_Bildbeschreibung:_
+
+_„Screenshot einer Tabelle mit den Skalenwerten in den Zeilen (7-Punkt-Skala von sehr negativ oben bis sehr positiv unten) und Diversitätsdimensionen in den Spalten. In den Zellen stehen jeweils Zahlen, die angeben, wie viele Personen diese Bewertung (Zeile) zu den Dimensionen in den Spalten abgegeben haben. Diversitätsdimensionen in den Spalten: Geschlecht, sexuelle Orientierung, Neurodivergenz, Anpassungsfähigkeit an Normen und Erwartungen, Soziales Umfeld, Sozioökonomischer Status der Eltern, Vereinbarkeit Familie und Studium, Ethnie, Weltanschauung, Behinderungen (ohne ADHS/Autismus), Persönliches Engagement, Hobbies und Spezialinteressen, vorhergehende Bildungs- und Arbeitserfahrungen, Selbststudium und Fleiß, Qualität der Lehre.“_
+
+# Outcome & Limitierungen
+
+**🡪 Erstmals Einblicke in Lebensrealitäten spezieller Aspekte neurodivergenter Studierender und Identifikation von Herausforderungen und gute Praxis an der TUD**
+
+**Outcomes**
+
+- Durchführung von Befragungen mit neurodivergenten Studierenden
+- Sensibilisierung und Vernetzung innerhalb der TUD (Betroffene + Akteur:innen, Stammtisch ‘Neurodivergente Runde’)
+- Identifizierung von Herausforderungen und Good Practice an der TUD
+- Entwicklung von Personas zur Veranschaulichung typischer Herausforderungen
+
+**Limitierungen**
+
+- Ergebnisse rein qualitativ
+- keine statistische Auswertung – geringe Samplegröße, nicht repräsentativ
+
+Der Anfang ist gemacht…
+
+**…und wie weiter?**
+
+- Veröffentlichung der **Workshop-Materialien, Vorträge** im Nachgang auf der [**Projektwebseite Neuroqueer**](https://tu-dresden.de/ing/informatik/ai/mci/forschung/forschungsgebiete/neuroqueer-tud)
+- Bereitstellung eines **umfangreichen Berichts** mit Auswertung aller Daten (ongoing work)
+- [**Forschungsprojekt AutARK**](https://autark.inf.tu-dresden.de/) zu technischen Unterstützungssystemen bis Ende 2025
+- Weiterverwendung der Outcomes und Nachnutzung ermöglichen
+
+Anregungen, Fragen oder Hinweise zur Veranstaltung bzw. den Inhalten an:
+
+[neurodivergent@tu-dresden.de](mailto:autark@tu-dresden.de)
+
+_Gefördert vom Bundesministerium für Bildung und Forschung (BMBF) und dem Freistaat Sachsen im Rahmen der Exzellenzstrategie von Bund und Ländern._

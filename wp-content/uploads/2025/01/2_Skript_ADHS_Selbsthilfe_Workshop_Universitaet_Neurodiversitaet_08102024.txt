@@ -1,0 +1,185 @@
+# Studieren mit ADHS
+> Was kann ich selbst tun, um positiven Einfluss auf mein Studium zu nehmen?
+> **Selbsthilfe-Tipps für Betroffene**
+
+## ADHS, Potential und Erwartungsmanagement
+*Wenn die “zerstreuten Professor:innen” an die Uni kommen*
+
+
+> “It can be difficult for educationalists and clinicians to differentiate ADHD from traits of giftedness like intensity, drive, perfectionism, curiosity and impatience.”
+> “In literature, the ‘creative gifts of giftedness’ of people with ADHD is widely documented.”
+ ~ University students with attention deficit hyperactivity disorder (ADHD): a literature review, J. A. Sedgwick 2017 Aus: Cramond, 2011; White & Shaw, 2011; Zabelina et al. 2014; Lee & Olenchak, 2015; Webb, 1993; Silverman, 1994
+
+
+- Wie können wir das Potential nutzen, ohne an der Behinderung zu scheitern?
+- Gute Barrierefreiheit und Sensibilisierungsarbeit an Universitäten!
+- … aber auch Betroffene können Einfluss nehmen.
+
+
+## Einflussnahme aus Betroffenenperspektive - was kann ich tun?
+- Therapie und Medikation:
+	- Wo hilft mir professionelle Unterstützung im Studium?
+- Studieren lernen:
+  - Wie und wo lerne ich am effektivsten?
+  - Ist das kompatibel mit der TUD?
+- Soziales:
+  - Wie kann ich Selbsthilfe nutzen, welche Angebote hat die TUD?
+
+## Unterstützung von außen
+> Therapeutische und medikamentöse Interventionen
+
+- Therapie und Medikation hilfreich
+  - akademische Leistungen von nicht behandelten ADHS’ler:innen schlechter im Vergleich zur Kontrollgruppe ohne ADHS[1]
+  - Leistungssteigerung durch multimodalen Ansatz  - Medikamente und Verhaltenstherapie - vielversprechender als Einzelmaßnahmen[1]
+ - Hinweise zu Medikamenten aus eigener Erfahrung:
+	 - ADHS Medis können Gefühle und Gedanken negativ beeinflussen (siehe Beipackzettel)
+	 - sie bilden keinen langfristigen Spiegel im Blut: bei Unverträglichkeit selbst absetzen & schnell wechseln
+- Häufig komorbid mit verschiedenen Störungen[2], z. B.
+	 - Autismus 59 %
+	 - Lernbehinderungen 10–90%/70%
+	 - Tic-Störungen 55%
+	 - Depressionen 12–50%
+- Diagnose Bedarf fällt häufig erst im Studium auf
+	 - hohe Anforderungen an Exekutivfunktion, Autonomie, Arbeitsgedächtnis und effektive Planung oft stark herausfordernd
+	 - Ergebnisse von Leistungstests (79%) und akademische Leistungen mit ADHS[3]
+
+
+[1]: [GARELLO, María Virginia  y  RINAUDO, María Cristina; Revista electrónica de investigación educativa, 2013](https://journals.sagepub.com/doi/pdf/10.1177/1087054714566076)
+[2]: [Attention deficit hyperactivity disorder and comorbidity: A review of literature, Gnanavel S, Sharma P, Kaushal P, Hussain S., 2019](https://www.scielo.org.mx/scielo.php?pid=S1607-40412013000200009&script=sci_abstract&tlng=en)
+[3]: [L. Eugene Arnold, Paul Hodgkins, Jennifer Kahle, Manisha Madhoo, Geoff Kewley; Loang-Term Outcomes of ADHD: Academic Achievement and Performance, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6745333/)
+
+## Gedankenspiel Risikobewertung
+
+In Rollenspielen gibt es kritische Patzer, z. B.:
+Fällt in Dungeons & Dragons ein 20-seitiger Würfel auf eine Eins, scheitert eine Aktion kritisch.
+
+Frage bei Risiken:
+
+- Wie wahrscheinlich ist ein kritischer Patzer?
+- Was passiert bei einem kritischen Patzer?
+- Wie kompensiere ich einen kritischen Patzer?
+
+## Erhöhtes Risiko für Abhängigkeitsstörungen
+> Tut nichts, bei dem ihr kritische Patzer nicht kompensieren könnt
+WARUM?  
+### Wodurch zeigt sich das hohe Suchtrisiko bei ADHS?
+
+- deutlich erhöhter Konsum legaler und illegaler Drogen[4]
+- schädlicher Konsum, z. B. von Alkohol, ebenfalls erhöht
+- Hintergrund: Drogen als “Selbsttherapie”[6] und als “Study Drugs” [5]
+
+#### Was können Folgen sein?
+- Drogenkonsum verursacht Leidensdruck im Studium [7]
+  - Belastung für romantische Beziehungen und soziales Umfeld
+  - Beeinträchtigung im Studium und Denkfähigkeit
+- Suchtstörung stehen ADHS Therapie entgegen: *Sucht muss zuerst behandelt werden*
+
+#### Was kann ich tun?
+
+- Prävention, Medikament durch Psychiater:in (!!!) verschreiben lassen
+- wenn stationäre Therapie notwendig: Semester beim Immatrikulationsamt streichen lassen
+
+Anonymes Zitat:
+> “Die sagen Gras sei eine Einstiegsdroge.
+>  Einstieg war es für mich in eine [explizit] Nikotinsucht.”
+(nicht im Rahmen der Studie)
+
+
+Also: Nehmt keine Performer Drogen, aber was könnt ihr denn stattdessen tun, um zu performen?
+
+[4]: [Rooney M, Chronis-Tuscano A, Yoon Y. Substance use in college students with ADHD, April 2012](https://pubmed.ncbi.nlm.nih.gov/21289233/)
+[5]: [Amelia M Arria, Dispelling the myth of "smart drugs" Mar 2013](https://pubmed.ncbi.nlm.nih.gov/23254212/)
+[6]: [Claudia Borchard-Tuch, Sucht als Selbstmedikation, 2007](https://www.pharmazeutische-zeitung.de/ausgabe-062007/sucht-als-selbstmedikation/)
+[7]: [Baker L, Pevatt F, Proctor B, Drug and alcohol use in college students with and without ADHD, 2012](https://pubmed.ncbi.nlm.nih.gov/21828360/)
+
+## Es mangelt nicht an Selbstoptimierungs-Tipps
+> aber irgendwie helfen die alle nicht
+
+ADHS hat einen großen Einfluss aufs Belohnungssystem. Wenn zum Beispiel Belohnungen, die für neurotypische Menschen gedacht sind, nicht bei euch funktionieren, ist das kein persönlicher Flaw.
+
+
+### Beispiel Pomodoro vs. Prokastidoro
+> Klassische Techniken auf eigene Bedürfnisse anpassen.
+
+Bei Prokastidoro fängt man mit einer Pause von 25 Minuten an und muss dann für 5 Minuten arbeiten. Wenn man dann einmal in den Flow gekommen ist, macht man einfach weiter.
+
+## Studieren lernen
+> Den richtigen Kontext für sich selbst finden
+
+### Welches Medium?
+
+ - Vorlesung in Person oder aufgezeichnet?
+ - Literatur
+ - Projektarbeit
+ - Tutorium
+
+Fachberatung und Fachschaftsrat (FSR) können bei Modulzusammensetzung helfen. Die TUD möchte in Qualitätszielen Lernen mit verschiedenen Medien ermöglichen. Hier auch bei Studienauswahl darauf achten.
+
+### Welcher Ort?
+ - Vorlesung
+ - Zuhause
+ - Ruheraum
+ - SLUB
+ - Park
+
+Studierende mit ADHS können Ruheräume in der TU Dresden nutzen. Auch die permanente Ausgabe von Schlüsseln kann im Einzelfall gewährt werden.
+
+
+### Den richtigen Kontext für sich selbst finden
+- In welcher Zeit?
+  - morgens/abends/nachts?
+  - langsamer, als Regelstudienzeit?
+
+Da Unterlagen zum Zuhause Nacharbeiten bereitgestellt werden sollen, ermöglicht die TU lernen auch zu atypischen Tageszeiten.
+Fachberatung und Prüfungsamt können bei individuellen Studienzeitplänen helfen.
+
+## Soziales
+> Wenn alle aneinander denken, ist an jede:n gedacht.
+### Tagesstruktur und Aufgaben
+
+ - sich zum nebeneinander Arbeiten verabreden
+ - sich Tagespläne und Berichte schicken
+ - gemeinsam an Aufgaben arbeiten
+ - Aufgaben für andere erledigen: *“Ich mach’ deinen Abwasch und du meinen.”*
+
+Es ist häufig einfacher, anderen Rat zu geben, als sich selbst.
+Zudem kann positiver sozialer Druck beim Erreichen von Zielen helfen.
+
+### Übersicht im Studium
+- Bildet Banden!
+  - Ihr studiert i. d. R. nicht alleine, also helft einander mit Fristen, Terminen etc.
+  - Schafft Ressourcen – nicht nur für euch:
+	 	1. Sozialer Druck motiviert
+	 	2. Kollaboratives Mitschreiben in Vorlesungen ermöglicht Pausen
+
+Niemand kann in allen Aspekten gut sein. Menschen mit ADHS haben organisatorische Schwächen - und dafür andere Stärken.
+Gemeinsam Schwächen kompensieren und Stärken teilen nützt allen Studierenden.
+
+
+## Support Angebote TU Dresden
+ - [PASST Frühwarnsystem](https://tu-dresden.de/studium/im-studium/beratung-und-service/zentrale-studienberatung/passt)
+	 - warnt, wenn Probleme im Studium auftreten, die zur Exmatrikulation führen könnten
+ - [Studieren mit ADHS](https://tu-dresden.de/tu-dresden/organisation/gremien-und-beauftragte/beauftragte/bfsb/studieren-mit-adhs)
+	 - Selbsthilfe-Gruppe mit regelmäßigen Stammtischen in der SLUB
+ - [Schreibzentrum](https://tu-dresden.de/studium/im-studium/studienerfolg/schreibzentrum)
+	 - Unterstützt bei Facharbeiten
+ - [Psychosoziale Beratung Studentenwerk](https://www.studentenwerk-dresden.de/soziales/psychosoziale-beratung.html)
+ 	- Unterstützt bei psychischen Krisen
+ - [Beauftragte für Studierende mit Behinderungen und chronischer Erkrankung](https://tu-dresden.de/tu-dresden/organisation/gremien-und-beauftragte/beauftragte/bfsb)
+	 - Berät zu Nachteilsausgleich und Assistenz
+ - [Arbeitsgruppe Services Behinderung und Studium (AG SBS)](https://tu-dresden.de/tu-dresden/universitaetskultur/diversitaet-inklusion/inklusion/barrierefreiheit/agsbs)
+	 - vielfältige Unterstützungsangebote (z. B. Erstellung barrierefreier Dokumente, Literaturübertragung, Lernraum, [Anleitungen](https://tu-dresden.de/tu-dresden/universitaetskultur/diversitaet-inklusion/inklusion/barrierefreiheit/agsbs/dokumente) sowie [PEER-Beratung](https://tu-dresden.de/tu-dresden/universitaetskultur/diversitaet-inklusion/inklusion/barrierefreiheit/agsbs/beratung-1)
+ - studentische Vertretung
+	 - FSR
+	 - [StuRa Referat Inklusion](https://www.stura.tu-dresden.de/referat_inklusion)
+
+Die zentrale Studienberatung der TU Dresden schafft Angebote für Übersicht im Studium, die an alle gerichtet sind und mit ADHS besonders nötig/hilfreich sein können.
+(ich habe hier einige gute Erfahrungsberichte gehört)
+
+
+
+Projektkoordination:
+Lars Bönsch
+contact@betalars.de
+Gefördert vom Bundesministerium für Bildung und Forschung (BMBF) und
+dem Freistaat Sachsen im Rahmen der Exzellenzstrategie von Bund und Ländern.

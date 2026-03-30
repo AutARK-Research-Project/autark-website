@@ -1,0 +1,287 @@
+# Neurodivergent@TUD & neuroqueer@TUD
+Grundlagen zu Neurodiversität
+und Universität.
+
+## Anekdote
+> Ich habe Neurodiversität immer zu weit gedacht.
+
+Neurodiversität ist eine depathologisierte Betrachtungsweise auf Erscheinungen, wie Autismus, ADHS oder auch Dyslexie. Es wird nicht als persönliches Defizit von Personen aufgefasst, sondern einfach als Facette der Diversität menschlicher Kognition.
+Behinderungen entstehen durch den Kontext einer Gesellschaft, die Bedürfnissen von neurologischen Minderheiten nicht gerecht wird.
+Das ist eine logische Schlussfolgerung von Neurodiversität und UN BRK
+*das ist das Neurodiversitäts-Paradigma:*
+
+ - [Neurodiversity: Some basic Terms & Definitions, Dr. Nick Walter](https://neuroqueer.com/neurodiversity-terms-and-definitions/)
+ - [Neuroqueer - an Introduction, Dr. Nick Walter](https://neuroqueer.com/neuroqueer-an-introduction/)
+
+## Definitionen und Begriffe
+
+### Neurodiversität
+neurologische Vielfalt der menschlichen Kognition.
+
+Neurodiversität ist keine Bewegung, sondern ein Fakt.
+
+ - Richtig: “Die zentrale Studienberatung ist zu Neurodiversität unter Studierenden sensibilisiert.”
+ - Falsch: “Meine Neurodiversität macht mir im Studium Probleme.”
+	 - **Eine Person ist nicht divers.**
+
+### neurotpyisch (Adj.)
+- neuronal der Norm entsprechend
+- NT auch als Abkürzung für neurotypische Person
+
+### neurodivergent (Adj.)
+ - neuronal von der Norm abweichend
+
+### Barriere
+Sichtbare und unsichtbare Mechanismen, die Behinderte von der Teilhabe ausschließen.
+
+### Behinderte
+Menschen, die im Alltag wegen Abweichen von körperlichen & geistigen Normen behindert werden.
+
+#### Schaubild Behinderungen und Barrierefreiheit
+
+*Bildbeschreibung:*
+*Schaubild mit beschrifteten Piktogrammen. Ein Raum mit zwei Türen, eine am oberen Ende einer Treppe. Die Treppe hoch gezogen wird eine Person im Rollstuhl. Neben der unteren Tür steht eine Person, die sagt: "Aber alle Studis mögen keine Treppen steigen, warum bekommen denn jetzt die Rollis eine Extrawust? Die Beschriftungen der Objekte: Die untere Tür ist barrierefrei. Der Rollstuhl ist Hilfsmittel. Die ziehende Person ist Assistenz-Kraft. Die Treppe ist eine Barriere. Die Aussage der Person ist behindertenfeindlich.*
+
+Hohe Anforderungen an Selbstorganisation und -disziplin sind Barrieren für Studierende mit ADHS. Es ist legitim, dass diese sich ein höheres Level an organisatorischer Unterstützung einfordern, als man NT-Studierenden gewähren würde.
+
+### Barrierefreiheit
+(utopischer) Zustand, in dem Barrieren nicht mehr existiere
+
+### Assistenzkraft
+Personelle Hilfe zur Überwindung von Barrieren
+
+### Hilfsmittel
+Hilft Barrieren zu kompensieren
+
+### neuroqueer (Adj./Verb)
+ - Ausleben von Neurodivergenz und Hinterfragen eines neuro-normativen kulturellen Kontextes
+	 - Verknüpfung von Neurodivergenz,
+	 - Geschlechtsidentität und sexueller Identität
+
+Neuroqueer@TUD untersucht intersektionale Effekte zwischen Neurodiversität und geschlechtsspezifischer Sozialisierung
+
+### Autismus, ADHS - Identität oder Behinderung?
+Kommt auf die Perspektive an.
+Diagnosen beschreiben einen Leidensdruck und sind eher defizitorientiert. Sie begründen Therapiebedarf.
+Identität ist subjektiv und Selbstfindung. Umfasst auch Stärken und neutrale Eigenschaften
+
+ - Person-first Language
+	 - Person wird betont, nicht die Beeinträchtigung
+	 - beschreibt eine Person, die eine Diagnose hat
+		 - z. B. Person mit Autismusspektrumsstörung
+ - Identity-first Language
+	 - Beeinträchtigung ist im Fokus
+	 - beschreibt Identität einer Person
+		 - z. B. autistische Person, Autist:in, Auti
+
+ - Ob Betroffene ihre Neurodivergenz als Behinderung, Identität oder beides verstehen, ist sehr individuell und kann sich über Lebensabschnitte verändern.
+ - Ich persönlich nehme Autismus primär als Identität und ADHS primär als Behinderung wahr. Mein Autismus ist austherapiert, mein ADHS ist noch kaum therapiert.
+
+[Mehr zu inklusiver Sprache](https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines)
+
+“Turing was accustomed to being a non-conformist. At boarding school, he refused to adapt andignored subjects that did not interest him”
+(BBC News, 1999)
+Alan Turing: Father of the computer, BBC, 1999
+
+Wir können uns Einsparungen bei Barrierefreiheit nicht leisten!
+
+## Was ist Autismus?
+Kennst du das Gefühl, auf dem falschen Planeten zu wohnen?
+
+### Autismusspektrumsstörung (ASS)
+> Kennst du eine:n Autist:in, kennst du wirklich nur ein:e.
+> Aber die mögen trotzdem alle Züge.
+
+ - Autistisches Spektrum umfasst viele Facetten
+	 - eigenartiges Sozialverhalten (schlechte soziale Intuition, gegenseitige Probleme in Empathie zwischen Auti und NT)
+	 - untypische (Körper-)Sprache (monotone Sprechweise, wenig Augenkontakt, manchmal nonverbal)
+	 - außergewöhnliche Reizwahrnehmung (Synästhesie, selektives Essen, Probleme beim Filtern/Ausblenden)
+	 - eigene Gedanken- und Gefühlswelt (“logische Sturheit”, Hinterfragen von Normen, Gefühlsblindheit)
+	 - ungewöhnliche Gewohnheiten, Routinen, Interessen und Bewegungsmuster (Oberkörperwippen, auf Zehen gehen)
+ - alle Facetten unterschiedlich stark ausgeprägt zwischen Betroffenen und auch Kontextabhängig
+ - an Hochschulen sehr häufig starkes Masking, d. h. Verstecken autistischer Eigenschaften hinter NT-Rolle
+	 - dies kostet Betroffene viel Kraft, passiert oft auch unterbewusst
+
+
+### “Anders-sein ist eine Superkraft”
+Neurotypische Probleme können autistische Lösungen benötigen.
+
+ - Spezialinteressen, Hyperfokus und schwache Filter
+ - ermöglichen effektives Einarbeiten in große Datenmengen
+ - schwache unterbewusste Filter regen Kompensationsstrategien an
+ - Geringes Verständnis für sozial angemessenes Verhalten
+ - Ein Mädchen, das sich von der Weltpolitik konsequenten Klimaschutz einfordert und jeden Freitag streiken geht, verhält sich nicht “angemessen”.
+ - “Es ist eigentlich aussichtslos, als Mädchen mit einem Schild vor einem Parlament etwas zu verlangen, aber ich tue es trotzdem [...].” (DLF, 2021)
+ - logische Sturheit und geringe Ambiguitätsintoleranz
+ - Autisti:innen fällt es schwer, Widersprüche zu akzeptieren.
+ - Unlogische gesellschaftlich anerkannte Paradoxa werden hinterfragt
+ - Das zwanghafte Verlangen das Richtige zu machen und Hyperfokussind potente Kombination
+
+[Die politische Kraft des Autismus, Deutschlandfunk 2021](https://www.deutschlandfunkkultur.de/greta-thunbergs-erfolgsgeheimnis-die-politische-kraft-des-100.html)
+
+
+### Robin, 27 Jahre*
+Studiert Gesang an Fakultät der Kulturwissenschaft
+mit Autismus und Depressionen*
+ - Kindheit
+ - in Schule unauffällig, lediglich nicht gut in Tests
+Wutausbrüche zu Hause, Eltern waren ratlos
+ - Diagnose: “schwerwiegende emotionale Entwicklungsstörung”
+weil nichts half: entwickelte schwere Depressionen
+Studium
+- von Anfang an stark sozial engagiert, organisiert ruhiges Socializing
+oft unklar, wie Fragen in Klausuren gemeint sind
+lernt sich selbst in Beziehung besser zu verstehen
+ - Was hilft?
+	 - Medikamente gegen Depressionen (und für Nachteilsausgleich)
+erlernte Kompetenzen aus studentischem Engagement
+	 - Sensibilisierung von Lehrkräften für Autismus-Quirks
+
+**Persona wurde aus Fallbeispielen und Literatur erarbeitet und stellt eine möglichen Geschichte an einer fiktiven Fakultät der TUD dar.*
+
+
+### Typisch für Autist:innen im Studium
+> Das sagen uns Betroffene und existierende Literatur
+
+ - Große Begeisterung für Themen im Studiengang
+ - Viele kennen ihre Diagnose nicht oder möchten sie Universität nicht mitteilen
+bei Frauen signifikanter Diagnose-Zuwachs im Studium
+ - Unsicherheiten durch unklare “Regeln” im Studium
+teils wahrgenommene Willkür; insbesondere beim Prüfungsamt
+	 - was sind Prüfungsbedingungen, wie funktionieren Prozeduren, wo stehen Informationen?
+ - Lernen durch Wissen Anwenden und Zuhause nacharbeiten besonders beliebt
+profitieren auch stark von multimodalem Lernen
+ - oft kleineres soziales Netz, deswegen jedoch nicht immer unzufrieden
+ - Vorurteile gegenüber Autismus im Lehrkörper; Autist:innen werden unhöflich wahrgenommen
+	 - Aufklärungsarbeit unter Lehrkräften hilft hier
+ - Probleme bei Prüfungen
+ 	- Reizniveau im Prüfungsräumen
+	 - Interpretation von Intentionen hinter Aufgaben (“Welche Antwort wird bei dieser Frage erwartet?”)
+	 - soziale Schwierigkeiten bei mündlichen Prüfungen
+ - Höheres Risiko für psychische Krisen
+
+
+## Was ist AD(H)S?
+> Mehr Potenzial, als man haben kann
+
+ - Leidensdruck:
+	 - Unaufmerksamkeit
+	 - Probleme bei langen und/oder uninteressanten Aufgaben
+	 - Probleme Aufgaben abzuschließen
+	 - Schusselfehler
+	 - Häufiges Verlieren von Gegenständen
+	 - Impulsivität
+	 - Schwierigkeit bei emotionaler Regulierung
+	 - Probleme Pläne zu erarbeiten und zu folgen
+	 - Schlechte Risikoabschätzung und hohe Spontanität
+	 - Hyperaktivität (optional)
+	 - Gefühl vergeudeten Potenzials (eigene Beobachtung)
+		 - Viel Kreativität, Leidenschaft, Brillanz, Perfektionismus
+		 - Unfähigkeit, eigenes Potenzial auszuschöpfen
+		 - davon verursacht verzerrte, unklare oder negative Selbstbilder
+
+### ADHS –  Hochbegabte Behinderte
+> Ich dachte ja, das sei ein Vorurteil …
+
+ - Evidenz für große Überschneidung zwischen Hochbegabungen und ADHS
+	 - Aus Erfahrung:  
+	 Betroffene kompensieren häufig fehlende Selbstorganisation und Lerndisziplin mit “rohem Intellekt”
+	 - irgendwann im Leben (bei mir war es drei Jahre nach dem Studium) funktioniert das oft plötzlich nicht mehr
+ - Fehlender Support ist nachhaltig schädlich für Selbstbild
+	- *“Ich müsste das doch können!”*
+	- *“Ich war doch immer in der Schule gut!”*
+	- *“Ich verschwende mein Potenzial!”*
+	- *“Was ist der Sinn von meinem Leben, wenn ich nie zufrieden bin mit mir, wenn mein Leben nie interessant genug ist?”*
+ - Große, lebenslange Kosten entstehen durch fehlende Unterstützung, obwohl ADHS gut therapierbar ist.
+
+
+### Layla, 23 Jahre*
+Studiert Mineralogie an Fakultät Geologie mit ADHS*
+ - Kindheit
+	 - galt als hochbegabt
+	 - musste nie viel lernen für gute Noten
+	 - wurde nie fertig mit Hausaufgaben
+ 	- Probleme in Gruppengesprächen
+ - Studium
+ 	- hoher Anspruch an Selbststudium und Selbstdisziplin überfordern
+ 	- mangelnde Lerngewohnheiten werden zum Problem
+ 	- kann Umfang von Hausarbeiten kaum einschätzen wegen Perfektionismus
+ 	- Tutorien oft zu voll
+ - Was hilft?
+ 	- lernt andere Betroffene kennen, realisiert ADHS
+ 	- erhält bei Peer-Beratung Assistenzperson und Hilfe bei Diagnostik
+ 	- kohärent aufbereitete Infoseiten zu allen Modulen
+ 	- Kompensationsstrategien, Selbsthilfe und ein soziales Netz
+
+**Persona wurde aus Fallbeispielen und Literatur erarbeitet und stellt eine möglichen Geschichte an einer fiktiven Fakultät der TUD dar.*
+
+### Das Klischee der faulen Studierendenschaft
+> ist vermutlich so alt, wie die universitäre Lehre selbst
+
+ - finde das besonders kritisch für Studierende mit ADHS
+	 - Symptomatik entspricht in Teilen dem Vorurteil
+	 - Unsichtbarkeit der Behinderung macht Akzeptanz schwer
+um dem Bild zu widersprechen
+	 - alle Befragten waren hoch motiviert und leistungsbereit
+	 - teils 40h Studium + 20h Teilzeitjob + chronische Krankheiten
+	 - bemerkenswertes studentisches Engagement
+	 - Wünsche an Uni entsprachen mehrheitlich TUD-eigenen Qualitätszielen oder rechtlichen Vorgaben
+ - Verantwortung liegt auf vielen Schultern:
+	 - es braucht Sensibilisierung, Kommunikation und Advocacy von Betroffenen,
+rechtliche Rahmenbedingungen und ausreichend Ressourcen für Lehre
+		 - “Exzellenz” klingt wie Qualität der Studiengänge, beschreibt jedoch Quantität der Studiengänge
+
+### Typisch für Studierende mit ADHS
+> Das sagen uns Betroffene und existierende Literatur
+
+ - Freiheit an Universität ist Segen und Fluch
+	 - erschwert Planung und fordert viel Disziplin
+	 - Belastung durch allgemeine Unübersichtlichkeit
+	 - wird oft mit und durch Kommiliton:innen und Studienberatung kompensiert
+ - Frustration über Doppelmoral bei Fehlerkultur
+	 - Form- oder Schusselfehler auf Studierendenseite: müssen selbst ausgebadet werden
+	 - Organisatorische Missstände auf Universitätsseite: müssen selbst kompensiert werden
+		 - dadurch Teils Angst um Studierbarkeit oder Exmatrikulation
+		 - Studierende mit AHDS können Probleme in Planung schwerer kompensieren, kann zu Folgefehlern führen
+ - Erleben häufig Stigmatisierung und Widerstand
+	 - Prozess, um Hilfe zu bekommen, benötigt viel Kraft und Zeit
+	 - manche fragen sich, ob sich das überhaupt lohnt
+	 - Prozess teils nicht barrierefrei
+	 - Rechtsunsicherheit bei Nachteilsausgleich frustriert
+ - Sehr unterschiedliche Berichte von Fachbereich zu Fachbereich
+	 - allerdings: Projektrahmen zu klein für qualifizierte Aussagen hierzu
+ - Behandlung durch Medikamente und Therapie bewirkt viel; oft fehlt Zugang
+ - Relativierung aus persönlicher Beobachtung: Impulsive Emotionen und Schusselfehler lassen Probleme auch manchmal größer wirken, als sie tatsächlich sind
+
+## Was bedeutet das für Universitätskultur?
+ - Alle haben Stärken und Schwächen.
+ - Neurodivergente Menschen benötigen wegen untypischen Schwächen mehr Support.
+ - Neurodivergente Menschen haben wegen untypischen Stärken besondere Potentiale.
+ - Neurodiverse Gruppen schaffen mehr, wenn Stärken gefördert und Schwächen kompensiert werden.
+
+### Barrieren vergeuden Potential
+ - Neurodivergente Menschen haben untypische Schwächen
+	 - aber auch untypische Stärken!
+	 - fehlende Kompensation von Barrieren vergeudet Potenzial
+ - Neurodivergente Menschen haben untypische Bias
+	 - erkennen Fehler, die neurotypische Personen nicht bemerken
+	 - außergewöhnliche Lösungsideen und Ansätze
+	 - insbesondere Autist:innen hinterfragen häufiger gesellschaftlich anerkannte Paradoxa (Literaturempfehlung: “Der kleine Prinz”)
+ - Differenzierung zwischen Hochbegabung und ADHS teils schwer
+ 	- [University students with attention deficit hyperactivity disorder (ADHD) a literature review, J. A. Sedgwick 2017](https://nadp-uk.org/wp-content/uploads/2019/02/University-students-with-ADHD-Literature-Review.pdf)
+
+## Vorteile und Nachteile einer großen Universität
+> Ich habe an einer kleinen Hochschule studiert
+
+ - große Universitäten haben viele Angebote & Ressourcen
+	 - mehr unterschiedliche Wahlpflichtfächer
+	 - viele Weiterbildungsmöglichkeiten (auch für Lehrkräfte)
+		 - wenn die Lehrkräfte sie wahrnehmen (können)
+	 - studentische Clubs auch für kleine Interessengruppen
+	 - differenziertere und spezialisiertere Anlaufstellen
+	 - *Projekte, wie dieses*
+ - große Universitäten haben viel Overhead
+	 - Ich habe meiner Hochschule eine Mail geschrieben, was ich an Support benötige (ohne Diagnosen) und alles hat einfach ohne Weiteres zutun funktioniert
+		 - TUD: Verwaltung und Lehre kann Betroffene kaum kennen
+	 - Hochschul-App, elektronischer Stundenplan, einheitliche Einschreibungsplattform, Notenübersicht an TUD langer Prozess
+	 - generelle Unübersichtlichkeit und Überforderung
